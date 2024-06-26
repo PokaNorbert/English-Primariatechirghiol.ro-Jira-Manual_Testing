@@ -6,7 +6,7 @@ In this repository the English language will be dominant.
 
 ! there are several projects under consideration to be posted on GitHub !
 
-! for any questions you can contact me !
+! for any questions you can contact me ! 
 
 New test projects will appear on my profile soon.
 
