@@ -4,4 +4,4 @@ In this repository the English language will be dominant.
 
 ! for any questions you can contact me ! 
 
-Soon all will be posted (period: September-October-November + study period for ISTQB and recaps: August-October+exams-November-December) 
+Soon all will be posted (The ISTQB is taken from December 16, 2024; New posts or updates will appear next year) 
