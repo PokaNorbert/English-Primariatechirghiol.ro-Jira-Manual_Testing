@@ -1,3 +1,1 @@
-The ISTQB is taken from December 16, 2024. New posts or updates will appear next year. 
-
-This will be released.
+The ISTQB is taken from December 16, 2024. Some lines need to be rewritten, so the entire update will be completed between February 17-27.
