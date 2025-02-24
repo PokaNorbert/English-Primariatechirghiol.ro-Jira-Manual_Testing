@@ -40,27 +40,4 @@ NPT-152 (Microsoft Edge) The "AM PODCA" button, in the "Link-uri Utile" menu, re
 
 NPT-153 (Microsoft Edge) The "Ministerul Dezvoltării Regionale și Turismului" button, in the "Link-uri Utile" menu, does not redirect the end user to the expected website
 
-Story
-NPT-125 The red video play button
 
-NPT-126 Transparent button with text (white): "Watch on YouTube"
-
-NPT-127 YouTube Options (right click)
-
-NPT-129 Button: ”AM PODCA”
-
-NPT-130 Button: ”Președintele României”
-
-NPT-131 Button: ”Guvernul României”
-
-NPT-132 Button: ”Senatul României”
-
-NPT-133 Button: ”Camera Deputaților”
-
-NPT-134 Button: ”Uniunea Europeană”
-
-NPT-135 Button: ”Infoeuropa”
-
-NPT-136 Button: ”Ministerul Dezvoltării Regionale și Turismului”
-
-NPT-137 Menu title: "Link-uri Utile"
