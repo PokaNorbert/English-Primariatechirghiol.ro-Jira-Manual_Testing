@@ -2,18 +2,19 @@ In this repository the English language will be dominant.
 
 The ISTQB is taken from December 16, 2024. Some lines need to be rewritten, so the entire update will be completed between February 17-27.
 
-for any questions you can *contact me* here or on: 
+<h1>Testing Project for Techirgh /h1>
 
-mail (orbert.pn@gmail.com), 
+The goal of the final project for the "IT Factory Manual Testing Course" is to use all the knowledge acquired throughout the course sessions, and to be able to apply it practically.
 
-LinkedIn, 
+Application under test: [https://www.primariatechirghiol.ro](https://www.primariatechirghiol.ro)
 
-Facebook, 
+Tools used: Jira, Zephyr Squad.
 
-Instagram, 
+<h2>Functional specifications:</h2>
 
-Discord 
+The below story was created in Jira and describes the functional specifications of the * module, for which the final project is performed upon.
 
-or TikTok:
+* *
 
-PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert 
+Here you can find the release that was created for this project:
+
