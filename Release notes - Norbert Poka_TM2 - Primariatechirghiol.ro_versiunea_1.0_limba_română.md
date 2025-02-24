@@ -20,5 +20,26 @@ NPT-123 RUTI conform SNA-leftsidebar (present on the left side of the page)
 
 NPT-124 Useful links menu/sidebar (on the right)
 
+Bug
+NPT-141 The "AM PODCA" button, from the "Link-uri Utile" menu, redirects the end user to an inaccessible website
+
+NPT-142 The "Ministerul Dezvoltării Regionale și Turismului" button, from the "Link-uri Utile" menu, does not redirect the end user to the expected website
+
+NPT-146 (iPad Pro) The "AM PODCA" button, in the "Link-uri Utile" menu, redirects the end user to an inaccessible website
+
+NPT-147 (iPad Pro) The "Ministerul Dezvoltării Regionale și Turismului" button, in the "Link-uri Utile" menu, does not redirect the end user to the expected website
+
+NPT-148 (Mozilla Firefox) The "AM PODCA" button, from the "Link-uri Utile" menu, redirects the end user to an inaccessible website
+
+NPT-149 (Mozilla Firefox) The "Ministerul Dezvoltării Regionale și Turismului" button, from the "Link-uri Utile" menu, does not redirect the end user to the expected website
+
+NPT-150 (Samsung Galaxy S20 Ultra) The "AM PODCA" button, in the "Link-uri Utile" menu, redirects the end user to an inaccessible website
+
+NPT-151 (Samsung Galaxy S20 Ultra) The "Ministerul Dezvoltării Regionale și Turismului" button, in the "Link-uri Utile" menu, does not redirect the end user to the expected website
+
+NPT-152 (Microsoft Edge) The "AM PODCA" button, in the "Link-uri Utile" menu, redirects the end user to an inaccessible website
+
+NPT-153 (Microsoft Edge) The "Ministerul Dezvoltării Regionale și Turismului" button, in the "Link-uri Utile" menu, does not redirect the end user to the expected website
+
 
 
