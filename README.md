@@ -18,3 +18,4 @@ The below story was created in Jira and describes the functional specifications 
 
 Here you can find the release that was created for this project:
 
+* *
