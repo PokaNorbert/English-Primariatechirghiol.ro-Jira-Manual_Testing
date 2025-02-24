@@ -13,7 +13,12 @@ NPT-143 Checking the compatibility of the "Link-uri Utile" menu with the Samsung
 NPT-144 Checking the compatibility of the "Link-uri Utile" menu with the Microsoft Edge browser
 
 
+Epic
+NPT-122 The video integrated into the website (under cb_menu)
 
+NPT-123 RUTI conform SNA-leftsidebar (present on the left side of the page)
+
+NPT-124 Useful links menu/sidebar (on the right)
 
 
 
