@@ -19,3 +19,11 @@ The below story was created in Jira and describes the functional specifications 
 Here you can find the release that was created for this project:
 
 * *
+
+<h2>Testing process</h2>
+
+The test process was performed based on the standard test process as described below.
+
+<h3>1.1 Test planning</h3>
+
+**
