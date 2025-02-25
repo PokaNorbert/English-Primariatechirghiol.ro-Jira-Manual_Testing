@@ -1,0 +1,339 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Affects versions,Fix versions,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Affected hardware),Custom field (Affected services),Custom field (Approvals),Custom field (Asset type),Custom field (Asset type),Custom field (Backout plan),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Department),Custom field (Department),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Epic Link Summary,Custom field (Epic Name),Custom field (Epic Status),Custom field (Goals),Custom field (Impact),Custom field (Implementation plan),Custom field (Investigation reason),Custom field (Issue color),Custom field (Locked forms),Custom field (Major incident),Custom field (Open forms),Custom field (Pending reason),Custom field (Planned end),Custom field (Planned start),Custom field (Priority),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Custom field (Responders),Custom field (Root cause),Satisfaction rating,Custom field (Satisfaction date),Custom field (Sentiment),Custom field (Severity),Custom field (Source),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Test plan),Custom field (Time to close after resolution),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Time to review normal change),Custom field (Total forms),Custom field (Urgency),Custom field (Vulnerability),Custom field (Work category),Custom field (Workaround),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Comment,Parent,Parent summary,Status Category,Status Category Changed
+"(Samsung Galaxy S20 Ultra) The document: ""Raport privind Strategia Nationala Anticoruptie pe anul 2019"" does not have the images properly placed",NPT-166,21651,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 12:15 PM,25/Feb/25 3:41 PM,,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The document mentioned in the summary did not have its images placed properly.
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Press the ""F12"" key on the keyboard on the surface on which it is placed, and look for the ""Dimensions"" option (approximately in the middle of the screen).
+* Press ""Dimensions"", and from the list of options displayed, select: Samsung Galaxy S20 Ultra.
+* Then, look for the ""RUTI according to SNA"" menu.
+* Identify the section: ""Annual reports"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the section: ""Annual Reports"".
+* Then, press the left mouse button on the surface on which it is placed, the click being positioned on the document: ""Report on the National Anti-Corruption Strategy for 2019"".
+* Check the placement of the images in the document.
+
+*Expected results*
+
+* The images in the document are placed properly.
+
+*Current results*
+
+* The images in the document are not placed properly.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-156,NPT-165,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@28d1fed,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mjd:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),To Do,25/Feb/25 12:15 PM
+"(iPad Pro) The document: ""Raport privind Strategia Nationala Anticoruptie pe anul 2019"" does not have the images properly placed",NPT-164,21649,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 12:12 PM,25/Feb/25 3:41 PM,,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The document mentioned in the summary did not have its images placed in a proper manner.
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Press the ""F12"" key on the keyboard on the surface on which it is placed, and look for the ""Dimensions"" option (approximately in the middle of the screen).
+* Press ""Dimensions"", and from the list of options displayed, select: iPad Pro.
+* Then, look for the ""RUTI conform SNA"" menu.
+* Identify the section: ""Rapoarte anuale"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the section: ""Rapoarte anuale"".
+* Then, press the left mouse button on the surface on which it is placed, the click being positioned on the document: ""Raport privind Strategia Nationala Anticoruptie pe anul 2019"".
+* Check the placement of the images in the document.
+
+*Expected results*
+
+* The images in the document are placed properly.
+
+*Current results*
+
+* The images in the document are not placed properly.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-156,NPT-163,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7a19f98,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mix:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),To Do,25/Feb/25 12:12 PM
+"(Microsoft Edge) The document: ""Raport privind Strategia Nationala Anticoruptie pe anul 2019"" does not have the images properly placed",NPT-162,21647,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 12:05 PM,25/Feb/25 3:41 PM,,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The document mentioned in the summary did not have its images placed in a proper manner.
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Microsoft Edge browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Then, look for the ""RUTI conform SNA"" menu.
+* Identify the section: “Rapoarte anuale"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the section: ""Rapoarte anuale"".
+* Then, press the left mouse button on the surface on which it is placed, the click being positioned on the document: ""Raport privind Strategia Nationala Anticoruptie pe anul 2019"".
+* Check the placement of the images in the document.
+
+*Expected results*
+
+* The images in the document are placed properly.
+
+*Current results*
+
+* The images in the document are not placed properly.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-156,NPT-161,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3d814e3a,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mih:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),To Do,25/Feb/25 12:05 PM
+"(Mozilla Firefox) The document: ""Raport privind Strategia Nationala Anticoruptie pe anul 2019"" does not have the images properly placed",NPT-160,21645,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 11:58 AM,25/Feb/25 3:41 PM,25/Feb/25 3:35 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The document mentioned in the summary did not have its images placed in a proper manner.
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Mozilla Firefox browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Then, look for the ""RUTI conform SNA"" menu.
+* Identify the section: ""Rapoarte anuale"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the section: ""Rapoarte anuale"".
+* Then, press the left mouse button on the surface on which it is placed, the click being positioned on the document: ""Raport privind Strategia Nationala Anticoruptie pe anul 2019"".
+* Check the placement of the images in the document.
+
+*Expected results*
+
+* The images in the document are placed properly.
+
+*Current results*
+
+* The images in the document are not placed properly.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-156,NPT-159,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7d80eaae,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mi1:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),To Do,25/Feb/25 11:58 AM
+Document: ”Raport privind Strategia Nationala Anticoruptie pe anul 2019” does not have the images properly placed,NPT-158,21643,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 11:50 AM,25/Feb/25 3:41 PM,,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The document mentioned in the summary did not have its images placed in a proper manner.
+
+*Preconditions*
+
+A personal computer with at least Windows 10 Home is used for testing, with the Microsoft Edge browser installed on it, along with a set of peripherals and a monitor.
+
+The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Then, look for the ""RUTI conform SNA"" menu.
+* Identify the section: ""Rapoarte anuale"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the section: ""Rapoarte anuale"".
+* Then, press the left mouse button on the surface on which it is placed, the click being positioned on the document: ""Raport privind Strategia Nationala Anticoruptie pe anul 2019"".
+* Check the placement of the images in the document.
+
+*Expected results*
+
+* The images in the document are placed properly.
+
+*Current results*
+
+* The images in the document are not placed properly.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-156,NPT-157,25/Feb/25 11:50 AM;712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67;Screenshot (17758).png;https://itfclasses.atlassian.net/rest/api/3/attachment/content/12311,25/Feb/25 11:50 AM;712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67;Screenshot (17759).png;https://itfclasses.atlassian.net/rest/api/3/attachment/content/12310,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@77938306,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mhl:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),To Do,25/Feb/25 11:50 AM
+"(Microsoft Edge) The ""Ministerul Dezvoltării Regionale și Turismului"" button, in the ""Link-uri Utile"" menu, does not redirect the end user to the expected website",NPT-153,21638,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 9:03 PM,25/Feb/25 3:41 PM,25/Feb/25 3:26 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary does not lead the end user to the expected website, but to: [http://www.mdlpl.ro/.|http://www.mdlpl.ro/.|smart-link] 
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Microsoft Edge browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be achieved on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Then, look for the ""Link-uri utile"" menu/sidebar (on the right side).
+* Identify the button: ""Ministerul Dezvoltării Regionale și Turismului"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the ""Ministerul Dezvoltării Regionale și Turismului"" button.
+
+*Expected Results*
+
+* The button redirects the end user to the expected website.
+
+*Actual Results*
+
+* The end user is not directed to the expected website.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-136,NPT-144,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6c41b7d9,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mgh:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21609,Useful links menu/sidebar (on the right),To Do,24/Feb/25 9:03 PM
+"(Microsoft Edge) The ""AM PODCA"" button, in the ""Link-uri Utile"" menu, redirects the end user to an inaccessible website",NPT-152,21637,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 9:01 PM,25/Feb/25 3:41 PM,25/Feb/25 3:26 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary leads the end user to a website that cannot be accessed: [https://www.fonduriadministratie.ro|https://www.fonduriadministratie.ro]
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Microsoft Edge browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Then, look for the ""Link-uri utile"" menu/sidebar (on the right).
+* Identify the button: ""AM PODCA"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the ""AM PODCA"" button.
+
+*Expected results*
+
+* The button redirects the end user to an accessible website.
+
+*Current Results*
+
+* The end user is directed to a website that cannot be accessed.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-129,NPT-144,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5749dd21,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mg9:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21609,Useful links menu/sidebar (on the right),To Do,24/Feb/25 9:01 PM
+"(Samsung Galaxy S20 Ultra) The ""Ministerul Dezvoltării Regionale și Turismului"" button, in the ""Link-uri Utile"" menu, does not redirect the end user to the expected website",NPT-151,21636,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:59 PM,25/Feb/25 3:41 PM,25/Feb/25 3:26 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary does not lead the end user to the expected website, but to: [http://www.mdlpl.ro/.|http://www.mdlpl.ro/.|smart-link] 
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Press the ""F12"" key on the keyboard on the surface on which it is placed, and look for the ""Dimensions"" option (approximately in the middle of the screen).
+* Press ""Dimensions"", and from the list of options displayed, select: iPad Pro.
+* Then, look for the ""Useful Links"" menu/sidebar (on the right).
+* The button is identified: ""AM PODCA"".
+* The left mouse button is pressed on the surface on which it is placed, the click being positioned on the ""AM PODCA"" button.
+
+*Expected results*
+
+* The button redirects the end user to the expected website.
+
+*Current results*
+
+* The end user is not directed to the expected website.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-136,NPT-143,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@36574b4d,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mg1:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21609,Useful links menu/sidebar (on the right),To Do,24/Feb/25 8:59 PM
+"(Samsung Galaxy S20 Ultra) The ""AM PODCA"" button, in the ""Link-uri Utile"" menu, redirects the end user to an inaccessible website",NPT-150,21635,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:56 PM,25/Feb/25 3:41 PM,25/Feb/25 3:25 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary leads the end user to a website that cannot be accessed: [https://www.fonduriadministratie.ro|https://www.fonduriadministratie.ro]
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Press the ""F12"" key on the keyboard on the surface on which it is placed, and look for the ""Dimensions"" option (approximately in the middle of the screen).
+* Press ""Dimensions"", and from the list of options displayed, select: Samsung Galaxy S20 Ultra.
+* Then, look for the ""Link-uri utile"" menu/sidebar (on the right).
+* The button is identified: ""AM PODCA"".
+* The left mouse button is pressed on the surface on which it is placed, the click being positioned on the ""AM PODCA"" button.
+
+*Expected results*
+
+* The button redirects the end user to an accessible website.
+
+*Current results*
+
+* The end user is directed to a website that cannot be accessed.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-129,NPT-143,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7181db70,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mft:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21609,Useful links menu/sidebar (on the right),To Do,24/Feb/25 8:56 PM
+"(Mozilla Firefox) The ""Ministerul Dezvoltării Regionale și Turismului"" button, from the ""Link-uri Utile"" menu, does not redirect the end user to the expected website",NPT-149,21634,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:50 PM,25/Feb/25 3:41 PM,25/Feb/25 3:24 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary does not lead the end user to the expected website, but to: [http://www.mdlpl.ro/.|http://www.mdlpl.ro/.|smart-link] 
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Mozilla Firefox browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Then, look for the ""Link-uri utile"" menu/sidebar (on the right side).
+* Identify the button: ""Ministerul Dezvoltării Regionale și Turismului"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the ""Ministerul Dezvoltării Regionale și Turismului"" button.
+
+*Expected Results*
+
+* The button redirects the end user to the expected website.
+
+*Actual Results*
+
+* The end user is not directed to the expected website.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-140,,NPT-136,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@463832a9,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mfl:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21609,Useful links menu/sidebar (on the right),To Do,24/Feb/25 8:50 PM
+"(Mozilla Firefox) The ""AM PODCA"" button, from the ""Link-uri Utile"" menu, redirects the end user to an inaccessible website",NPT-148,21633,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:47 PM,25/Feb/25 3:41 PM,25/Feb/25 3:23 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary leads the end user to a website that cannot be accessed: [https://www.fonduriadministratie.ro|https://www.fonduriadministratie.ro]
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Mozilla Firefox browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be achieved on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Then, look for the ""Useful Links"" menu/sidebar (on the right).
+* Identify the button: ""AM PODCA"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the ""AM PODCA"" button.
+
+*Expected results*
+
+* The button redirects the end user to an accessible website.
+
+*Current Results*
+
+* The end user is directed to a website that cannot be accessed.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-140,,NPT-129,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1d1deb7d,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mfd:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21609,Useful links menu/sidebar (on the right),To Do,24/Feb/25 8:48 PM
+"(iPad Pro) The ""Ministerul Dezvoltării Regionale și Turismului"" button, in the ""Link-uri Utile"" menu, does not redirect the end user to the expected website",NPT-147,21632,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:46 PM,25/Feb/25 3:41 PM,25/Feb/25 3:22 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary does not lead the end user to the expected website, but to: [http://www.mdlpl.ro/.|http://www.mdlpl.ro/.|smart-link] 
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Press the ""F12"" key on the keyboard on the surface on which it is placed, and look for the ""Dimensions"" option (approximately in the middle of the screen).
+* Press ""Dimensions"", and from the list of options displayed, select: iPad Pro.
+* Then, look for the ""Useful Links"" menu/sidebar (on the right).
+* The button is identified: ""AM PODCA"".
+* The left mouse button is pressed on the surface on which it is placed, the click being positioned on the ""AM PODCA"" button.
+
+*Expected results*
+
+* The button redirects the end user to the expected website.
+
+*Current results*
+
+* The end user is not directed to the expected website.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-136,NPT-139,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5a7d88a,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mf5:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21609,Useful links menu/sidebar (on the right),To Do,24/Feb/25 8:46 PM
+"(iPad Pro) The ""AM PODCA"" button, in the ""Link-uri Utile"" menu, redirects the end user to an inaccessible website",NPT-146,21631,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:43 PM,25/Feb/25 3:41 PM,25/Feb/25 3:21 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary leads the end user to a website that cannot be accessed: [https://www.fonduriadministratie.ro|https://www.fonduriadministratie.ro]
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Press the ""F12"" key on the keyboard on the surface on which it is placed, and look for the ""Dimensions"" option (approximately in the middle of the screen).
+* Press ""Dimensions"", and from the list of options that is displayed, the following will be selected: iPad Pro.
+* Then, look for the ""Link-uri utile"" menu/sidebar (on the right).
+* The button is identified: ""AM PODCA"".
+* The left mouse button is pressed on the surface on which it is placed, the click being positioned on the ""AM PODCA"" button.
+
+*Expected results*
+
+* The button redirects the end user to an accessible website.
+
+*Current results*
+
+* The end user is directed to a website that cannot be accessed.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-129,NPT-139,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@fa1410d,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mex:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,21609,Useful links menu/sidebar (on the right),To Do,24/Feb/25 8:43 PM
+"The ""Ministerul Dezvoltării Regionale și Turismului"" button, from the ""Link-uri Utile"" menu, does not redirect the end user to the expected website",NPT-142,21627,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:19 PM,25/Feb/25 3:41 PM,,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary does not lead the end user to the expected website, but to: [http://www.mdlpl.ro/.|http://www.mdlpl.ro/.|smart-link] 
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be achieved on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Then, look for the ""Link-uri Utile"" menu/sidebar (on the right side).
+* Identify the button: ""Ministerul Dezvoltării Regionale și Turismului"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the ""Ministerul Dezvoltării Regionale și Turismului"" button.
+
+*Expected Results*
+
+* The button redirects the end user to the expected website.
+
+*Actual Results*
+
+* The end user is not directed to the expected website.",testing,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-136,NPT-138,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@57994153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01me1:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,,,,To Do,24/Feb/25 8:19 PM
+"The ""AM PODCA"" button, from the ""Link-uri Utile"" menu, redirects the end user to an inaccessible website",NPT-141,21626,Bug,To Do,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:16 PM,25/Feb/25 3:41 PM,25/Feb/25 3:12 PM,,Primariatechirghiol_v1.0_english,Primariatechirghiol_v1.0_english,,0,"The button mentioned in the summary leads the end user to a website that cannot be accessed: [https://www.fonduriadministratie.ro|https://www.fonduriadministratie.ro]
+
+*Preconditions*
+
+* A personal computer with at least Windows 10 Home is used for testing, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The presence must be made on the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Reproduction steps*
+
+* Access the main page of [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+* Then, look for the ""Link-uri utile"" menu/sidebar (on the right).
+* Identify the button: ""AM PODCA"".
+* Press the left mouse button on the surface on which it is placed, the click being positioned on the ""AM PODCA"" button.
+
+*Expected results*
+
+* The button redirects the end user to an accessible website.
+
+*Current Results*
+
+* The end user is directed to a website that cannot be accessed.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-129,NPT-138,25/Feb/25 3:07 PM;712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67;Screenshot (17599).png;https://itfclasses.atlassian.net/rest/api/3/attachment/content/12315,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4a479d42,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mdt:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,,"25/Feb/25 3:07 PM;712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67;!Screenshot (17599).png|width=1756,height=455,alt=""Screenshot (17599).png""!",21609,Useful links menu/sidebar (on the right),To Do,24/Feb/25 8:16 PM
