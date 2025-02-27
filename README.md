@@ -1,25 +1,13 @@
-<h1>Testing Project for Techirgh</h1>
+<h1>Techirghiol City Hall Website Testing Project</h1>
 
-The goal of the final project for the "IT Factory Manual Testing Course" is to use all the knowledge acquired throughout the course sessions, and to be able to apply it practically.
+The goal of the final project for the “IT Factory Manual Testing Course” is to use all the knowledge acquired during the course sessions, and to be able to apply it practically.
 
-Application under test: [https://www.primariatechirghiol.ro](https://www.primariatechirghiol.ro)
+Tested parts of the website: https://www.primariatechirghiol.ro
 
-Tools used: Jira, Zephyr Squad.
+Tools used: Jira and Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below story was created in Jira and describes the functional specifications of the * module, for which the final project is performed upon.
+The stories below were created in Jira and describe some functional specifications of the Techirghiol City Hall website, for which the final project is being carried out:
 
-* *
-
-Here you can find the release that was created for this project:
-
-* *
-
-<h2>Testing process</h2>
-
-The test process was performed based on the standard test process as described below.
-
-<h3>1.1 Test planning</h3>
-
-**
+Here you can find the version that was created for this project:
