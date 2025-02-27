@@ -132,3 +132,29 @@ Full regression testing is required on the affected areas after the bugs are fix
 Since the exit criteria have been met, the Testing Team suggests this feature to "Go Live".
 
 The traceability matrix has been generated, and can be found here:
+
+The link between stories, tests and bugs/defects is properly reflected with the Traceability Matrix:
+<ul>
+<li>The matrix above can show us a number of 14 stories (10 stories are visible in the attached screenshot);</li>
+<li>The high number of defects/bugs displayed is caused by the fact that many defects are associated with several tests, not just one (thus, several links harmful to the user experience on the website were created);</li>
+<li>The story called ”NPT-57” is linked to 5 test conditions: NPT-93-94-95-99-100;</li>
+<li>Based on the same links: ”Story-Test condition”, ”NPT-45” is also linked to 5 test conditions: NPT-109-111-115-117-119, and ”NPT-43” only by ”NPT-121”;</li>
+<li>There are 11 test conditions in total (most cover more than one story);</li>
+<li>15 bugs/defects were identified (they are distributed across 11 stories).</li>
+</ul>
+
+The test execution diagram was generated, and can be found below:
+
+The final report shows that 10 tests failed out of a total of 11.
+
+A total of 15 defects/bugs were found, none of which are high priority, and 6 are medium priority.
+
+<h1>Testing Consequences</h1>
+
+The consequences of the testing performed are the following:
+<ul>
+<li>The total number of tests created is: 11, all of which were executed;</li>
+<li>The coverage percentage of tests in the scope is: 100%;</li>
+<li>For future projects, an even higher level of human attention is needed, and the speed of work is increased;
+<li>Most of the defects have a high level of severity. All defects affect the interaction that the end user has with the city hall website. Therefore, there is a probability that the end user will lose valuable time sitting on the website.</li>
+</ul>
