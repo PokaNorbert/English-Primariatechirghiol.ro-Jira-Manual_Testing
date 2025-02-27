@@ -93,3 +93,42 @@ While the risks associated with the project are the following:
 <h4>1.1.6 Evaluation of entry criteria</h4>
 
 The entry criteria defined in the "Test Planning" phase have been met, and the testing process can continue.
+
+<h3>1.2 Monitoring and controlling testing</h3>
+The testing process was continuously monitored, from start to finish. The Test status report was generated to effectively compare the current progress with the expected one. If deviations from the plan took hold of the entire development, then control measures were taken. The same happened if there was a risk of not meeting the objectives on time. The role of this stage is to increase quality and efficiency.
+
+<h3>1.3 Testing analysis</h3>
+
+The testing process was executed based on the application requirements.
+The following test conditions were built:
+
+<h3>1.4 Testing design</h3>
+
+The functional test cases were created in Zephyr Squad based on the specification analysis. The test cases can be accessed here:
+
+<h3>1.5 Testing Implementation</h3>
+
+The following elements are required to be prepared before starting the testing execution phase:
+<ul>
+<li>The test environment is prepared in all respects;</li>
+<li>The test data is available and accurate;</li>
+<li>The most important test cases are grouped;</li>
+<li>Permissions are available;</li>
+<li>The smoke test has been passed.</li>
+
+</ul>
+
+<h3>1.6. Testing Execution</h3>
+
+The test cases are executed on the created test cycle summary: ”Primariatechirghiol_versiunea_1.0_limba_română”.
+
+Defects/bugs have been created based on the failed tests. The full bug reports can be found here:
+
+The following is a summary of the defects/bugs that were found:
+
+Full regression testing is required on the affected areas after the bugs are fixed, and then each functionality that previously failed will need to be retested.
+
+<h3>1.7 End of Testing</h3>
+Since the exit criteria have been met, the Testing Team suggests this feature to "Go Live".
+
+The traceability matrix has been generated, and can be found here:
