@@ -94,10 +94,12 @@ While the risks associated with the project are the following:
 
 <h4>1.1.6 Evaluation of entry criteria</h4>
 
-The entry criteria defined in the "Test Planning" phase have been met, and the testing process can continue.
+The entry criteria defined in the Test Planning phase have been met, and the testing process can continue.
 
 <h3>1.2 Monitoring and controlling testing</h3>
 The testing process was continuously monitored, from start to finish. The Test status report was generated to effectively compare the current progress with the expected one. If deviations from the plan took hold of the entire development, then control measures were taken. The same happened if there was a risk of not meeting the objectives on time. The role of this stage is to increase quality and efficiency.
+
+*
 
 <h3>1.3 Testing analysis</h3>
 
