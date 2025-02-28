@@ -106,9 +106,13 @@ The testing process was continuously monitored, from start to finish. The Test s
 The testing process was executed based on the application requirements.
 The following test conditions were built:
 
+*
+
 <h3>1.4 Testing design</h3>
 
 The functional test cases were created in Zephyr Squad based on the specification analysis. The test cases can be accessed here:
+
+*
 
 <h3>1.5 Testing Implementation</h3>
 
@@ -126,9 +130,15 @@ The following elements are required to be prepared before starting the testing e
 
 The test cases are executed on the created test cycle summary: ”Primariatechirghiol_versiunea_1.0_limba_română”.
 
+*
+
 Defects/bugs have been created based on the failed tests. The full bug reports can be found here:
 
+*
+
 The following is a summary of the defects/bugs that were found:
+
+*
 
 Full regression testing is required on the affected areas after the bugs are fixed, and then each functionality that previously failed will need to be retested.
 
