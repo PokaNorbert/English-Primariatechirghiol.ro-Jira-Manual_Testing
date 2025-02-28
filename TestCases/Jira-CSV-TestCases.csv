@@ -1,0 +1,143 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Fix versions,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Custom field (Actual end),Custom field (Actual start),Custom field (Affected hardware),Custom field (Affected services),Custom field (Approvals),Custom field (Asset type),Custom field (Asset type),Custom field (Backout plan),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Department),Custom field (Department),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Epic Link Summary,Custom field (Epic Name),Custom field (Epic Status),Custom field (Goals),Custom field (Impact),Custom field (Implementation plan),Custom field (Investigation reason),Custom field (Issue color),Custom field (Locked forms),Custom field (Major incident),Custom field (Open forms),Custom field (Pending reason),Custom field (Planned end),Custom field (Planned start),Custom field (Priority),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Custom field (Responders),Custom field (Root cause),Satisfaction rating,Custom field (Satisfaction date),Custom field (Sentiment),Custom field (Severity),Custom field (Source),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Test plan),Custom field (Time to close after resolution),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Time to review normal change),Custom field (Total forms),Custom field (Urgency),Custom field (Vulnerability),Custom field (Work category),Custom field (Workaround),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Parent,Parent summary,Status Category,Status Category Changed
+"Checking the compatibility of the ""RUTI conform SNA"" menu with the Samsung Galaxy S20 Ultra",NPT-165,21650,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 12:13 PM,27/Feb/25 12:49 PM,27/Feb/25 5:33 PM,27/Feb/25 12:49 PM,Primariatechirghiol_v1.0_english,,0,"Verification that the menu mentioned in the summary appears approximately the same on the Samsung Galaxy S20 Ultra (without generating defects), using the Google Chrome browser, as when the end user interacts with the menu using the personal computer.
+
+*Preconditions:*
+
+* The end user owns a personal computer with at least Windows 10 Home, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The end user uses the Google Chrome browser to access the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu still does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly located.
+* No other buttons or other elements unrelated to the menu appear within the menu.
+* The buttons do not undergo changes that could cause defects following a change in the viewing resolution.
+* The buttons still redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-166,,NPT-167,NPT-155,NPT-156,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@707a4024,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mj5:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_174932317_*|*_10001_*:*_1_*:*_0,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),Done,27/Feb/25 12:49 PM
+"Checking the compatibility of the ""RUTI conform SNA"" menu with the iPad Pro",NPT-163,21648,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 12:07 PM,27/Feb/25 12:07 PM,27/Feb/25 5:35 PM,27/Feb/25 12:07 PM,Primariatechirghiol_v1.0_english,,0,"Verification that the menu mentioned in the summary appears approximately the same on the iPad Pro (without generating defects), using the Google Chrome browser, as when the end user interacts with the menu using the personal computer.
+
+*Preconditions:*
+
+* The end user owns a personal computer with at least Windows 10 Home, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The end user uses the Google Chrome browser to access the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu still does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly located.
+* No other buttons or other elements unrelated to the menu appear within the menu.
+* The buttons do not undergo changes that could cause defects following a change in the viewing resolution.
+* The buttons still redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-156,NPT-164,NPT-167,NPT-155,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1bebd875,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mip:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_172792039_*|*_10001_*:*_1_*:*_0,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),Done,27/Feb/25 12:07 PM
+"Checking the compatibility of the ""RUTI conform SNA"" menu with the Microsoft Edge browser",NPT-161,21646,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 12:02 PM,27/Feb/25 12:49 PM,27/Feb/25 5:35 PM,27/Feb/25 12:49 PM,Primariatechirghiol_v1.0_english,,0,"Verify that the menu mentioned in the summary appears exactly the same on the Microsoft Edge browser as when the end user interacts with the menu using the Google Chrome browser.
+
+*Preconditions:*
+
+* The end user has a personal computer with at least Windows 10 Home, with the Microsoft Edge browser installed on it, along with a set of peripherals and a monitor.
+* The end user is on the home page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu still does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly placed.
+* No other buttons or other elements unrelated to the menu appear within the menu.
+* The buttons do not undergo changes that could cause defects following a change in viewing resolution.
+* The buttons still redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-162,,NPT-167,NPT-155,NPT-156,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@39b2d04c,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mi9:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_175604215_*|*_10001_*:*_1_*:*_0,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),Done,27/Feb/25 12:49 PM
+"Checking the compatibility of the ""RUTI conform SNA"" menu with the Mozilla Firefox browser",NPT-159,21644,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 11:54 AM,27/Feb/25 3:16 PM,27/Feb/25 5:42 PM,27/Feb/25 11:33 AM,Primariatechirghiol_v1.0_english,,0,"Verify that the menu mentioned in the summary appears exactly the same on the Mozilla Firefox browser as when the end user interacts with the menu using the Google Chrome browser.
+
+*Preconditions:*
+
+* The end user has a personal computer with at least Windows 10 Home, with the Mozilla Firefox browser installed on it, along with a set of peripherals and a monitor.
+* The end user is on the home page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu still does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly located.
+* No other buttons or other elements unrelated to the menu appear within the menu.
+* The buttons do not undergo changes that could cause defects following a change in viewing resolution.
+* The buttons still redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-160,,NPT-167,NPT-155,NPT-156,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6d256353,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mht:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_171523178_*|*_10001_*:*_1_*:*_0,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),Done,27/Feb/25 11:33 AM
+Checking the structure and functionality of the ”RUTI conform SNA”,NPT-157,21642,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,25/Feb/25 11:46 AM,27/Feb/25 2:22 AM,27/Feb/25 5:43 PM,27/Feb/25 2:22 AM,Primariatechirghiol_v1.0_english,,0,"Verify that the menu mentioned in the summary is as expected.
+
+*Preconditions:*
+
+* The end user has a personal computer with at least Windows 10 Home, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The end user uses the Google Chrome browser to access the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly placed.
+* The menu title has been applied an appropriate font and color, and is also correctly placed.
+* There are no buttons or other elements within the menu that are not related to the menu.
+* The buttons redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-158,,NPT-167,NPT-155,NPT-156,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7920a621,,,,,,,,,,,,NPT-123,RUTI conform SNA-leftsidebar (present on the left side of the page),,,,,,,,,,,,,,,,,0|i01mhd:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_138963495_*|*_10001_*:*_1_*:*_0,21608,RUTI conform SNA-leftsidebar (present on the left side of the page),Done,27/Feb/25 2:22 AM
+"Checking the compatibility of the ""Link-uri Utile"" menu with the Microsoft Edge browser",NPT-144,21629,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:22 PM,26/Feb/25 2:07 AM,27/Feb/25 5:45 PM,26/Feb/25 2:07 AM,Primariatechirghiol_v1.0_english,,0,"Verify that the menu mentioned in the summary appears exactly the same on the Microsoft Edge browser as when the end user interacts with the menu using the Google Chrome browser.
+
+*Preconditions:*
+
+* The end user has a personal computer with at least Windows 10 Home, with the Microsoft Edge browser installed on it, along with a set of peripherals and a monitor.
+* The end user is on the home page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu still does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly placed.
+* No other buttons or other elements unrelated to the menu appear within the menu.
+* The buttons do not undergo changes that could cause defects following a change in viewing resolution.
+* The buttons still redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-152,NPT-153,NPT-129,NPT-130,NPT-131,NPT-132,NPT-133,NPT-134,NPT-135,NPT-136,NPT-137,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3603924c,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01meh:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_107123872_*|*_10001_*:*_1_*:*_0,21609,Useful links menu/sidebar (on the right),Done,26/Feb/25 2:07 AM
+"Checking the compatibility of the ""Link-uri Utile"" menu with the Samsung Galaxy S20 Ultra",NPT-143,21628,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:21 PM,26/Feb/25 2:07 AM,27/Feb/25 5:49 PM,26/Feb/25 2:07 AM,Primariatechirghiol_v1.0_english,,0,"Verification that the menu mentioned in the summary appears approximately the same on the Samsung Galaxy S20 Ultra (without generating defects), using the Google Chrome browser, as when the end user interacts with the menu using the personal computer.
+
+*Preconditions:*
+
+* The end user owns a personal computer with at least Windows 10 Home, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The end user uses the Google Chrome browser to access the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu still does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly located.
+* No other buttons or other elements unrelated to the menu appear within the menu.
+* The buttons do not undergo changes that could cause defects following a change in the viewing resolution.
+* The buttons still redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-150,NPT-151,NPT-129,NPT-130,NPT-131,NPT-132,NPT-133,NPT-134,NPT-135,NPT-136,NPT-137,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4d3d1bd9,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01me9:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_107196842_*|*_10001_*:*_1_*:*_0,21609,Useful links menu/sidebar (on the right),Done,26/Feb/25 2:07 AM
+"Checking the compatibility of the ""Link-uri Utile"" menu with the Mozilla Firefox browser",NPT-140,21625,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:12 PM,27/Feb/25 2:03 AM,27/Feb/25 6:01 PM,26/Feb/25 2:07 AM,Primariatechirghiol_v1.0_english,,0,"Verify that the menu mentioned in the summary appears exactly the same on the Mozilla Firefox browser as when the end user interacts with the menu using the Google Chrome browser.
+
+*Preconditions:*
+
+* The end user has a personal computer with at least Windows 10 Home, with the Mozilla Firefox browser installed on it, along with a set of peripherals and a monitor.
+* The end user is on the home page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu still does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly located.
+* No other buttons or other elements unrelated to the menu appear within the menu.
+* The buttons do not undergo changes that could cause defects following a change in viewing resolution.
+* The buttons still redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-129,NPT-130,NPT-131,NPT-132,NPT-133,NPT-134,NPT-135,NPT-136,NPT-137,NPT-148,NPT-149,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@31d0bdf1,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mdl:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_107725685_*|*_10001_*:*_1_*:*_0,21609,Useful links menu/sidebar (on the right),Done,26/Feb/25 2:07 AM
+"Checking the compatibility of the ""Link-uri Utile"" menu with iPad Pro",NPT-139,21624,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:11 PM,26/Feb/25 1:12 AM,27/Feb/25 6:03 PM,26/Feb/25 1:12 AM,Primariatechirghiol_v1.0_english,,0,"Verification that the menu mentioned in the summary appears approximately the same on the iPad Pro (without generating defects), using the Google Chrome browser, as when the end user interacts with the menu using the personal computer.
+
+*Preconditions:*
+
+* The end user owns a personal computer with at least Windows 10 Home, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The end user uses the Google Chrome browser to access the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu still does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly located.
+* No other buttons or other elements unrelated to the menu appear within the menu.
+* The buttons do not undergo changes that could cause defects following a change in the viewing resolution.
+* The buttons still redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-146,NPT-147,NPT-129,NPT-130,NPT-131,NPT-132,NPT-133,NPT-134,NPT-135,NPT-136,NPT-137,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4885d0e4,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01mdd:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_104500521_*|*_10001_*:*_1_*:*_0,21609,Useful links menu/sidebar (on the right),Done,26/Feb/25 1:12 AM
+Checking the menu structure and functionality ”Link-uri Utile”,NPT-138,21623,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 8:09 PM,27/Feb/25 2:05 AM,27/Feb/25 6:11 PM,26/Feb/25 12:12 AM,Primariatechirghiol_v1.0_english,,0,"Verify that the menu mentioned in the summary is as expected.
+
+*Prerequisites:*
+
+* The end user has a personal computer with at least Windows 10 Home, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The end user uses the Google Chrome browser to access the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* The menu does not pose any danger to the positioning of other elements in that area of ​​the website, being correctly placed.
+* The menu title has been applied an appropriate font and color, and is also correctly placed.
+* There are no buttons or other elements within the menu that are not related to the menu.
+* The buttons redirect the end user to the expected websites.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,NPT-141,NPT-142,NPT-129,NPT-130,NPT-131,NPT-132,NPT-133,NPT-134,NPT-135,NPT-136,NPT-137,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1fc457cd,,,,,,,,,,,,NPT-124,Useful links menu/sidebar (on the right),,,,,,,,,,,,,,,,,0|i01md5:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_100951379_*|*_10001_*:*_1_*:*_0,21609,Useful links menu/sidebar (on the right),Done,26/Feb/25 12:12 AM
+Checking the functionality of the video integrated into the website (under cb_menu): ”iluminat public Techirghiol”,NPT-128,21613,Test,Done,NPT,Norbert Poka_TM2,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,24/Feb/25 7:31 PM,27/Feb/25 3:23 PM,27/Feb/25 6:21 PM,25/Feb/25 11:53 PM,Primariatechirghiol_v1.0_english,,0,"Verify that the functions and playback of the video mentioned in the summary are without problems on the Techirghiol City Hall website.
+
+*Prerequisites:*
+
+* The end user has a personal computer with at least Windows 10 Home, with the Google Chrome browser installed on it, along with a set of peripherals and a monitor.
+* The end user uses the Google Chrome browser to access the main page of the website: [https://www.primariatechirghiol.ro.|https://www.primariatechirghiol.ro.]
+
+*Acceptance criteria:*
+
+* There are no buttons or other elements within the video that are not related to the video.
+* The buttons redirect the end user correctly.
+* The existing options for the video on the website work as expected.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,NPT-125,NPT-126,NPT-127,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6ed4370e,,,,,,,,,,,,NPT-122,The video integrated into the website (under cb_menu),,,,,,,,,,,,,,,,,0|i01max:,,,,,,,,,,,NPT Sprint 2,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_102149881_*|*_10001_*:*_1_*:*_0,21607,The video integrated into the website (under cb_menu),Done,25/Feb/25 11:53 PM
