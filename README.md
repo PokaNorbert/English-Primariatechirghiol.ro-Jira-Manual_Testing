@@ -31,11 +31,11 @@ The plan identifies the elements to be tested, the features to be tested, the ty
 <h4>1.1.1. Assigned people and roles assigned to the project</h4>
 
 <ul>
-<li>Csipas Valeriu - Project manager/Project manager</li>
-<li>Moga Constantin - Product owner/Product owner</li>
-<li>Buga Ovidiu - Software developer/Software developer</li>
-<li>POKA NORBERT - Team Lead/Testing Lead</li>
-<li>Sabou Iulia - QA (Quality Assurance/Quality Assurance) 1</li>
+<li>Csipas Valeriu - Project manager</li>
+<li>Moga Constantin - Product owner</li>
+<li>Buga Ovidiu - Software developer</li>
+<li>POKA NORBERT - Team Lead</li>
+<li>Sabou Iulia - QA (Quality Assurance) 1</li>
 <li>Talpoș Armand - QA 2</li>
 <li>Oprișan Mugurel - QA 3</li>
 </ul>
