@@ -142,10 +142,12 @@ The following is a summary of the defects/bugs that were found:
 
 Full regression testing is required on the affected areas after the bugs are fixed, and then each functionality that previously failed will need to be retested.
 
-<h3>1.7 End of Testing</h3>
+<h3>1.7 Test Completion</h3>
 Since the exit criteria have been met, the Testing Team suggests this feature to "Go Live".
 
 The traceability matrix has been generated, and can be found here:
+
+*
 
 The link between stories, tests and bugs/defects is properly reflected with the Traceability Matrix:
 <ul>
@@ -159,6 +161,9 @@ The link between stories, tests and bugs/defects is properly reflected with the 
 
 The test execution diagram was generated, and can be found below:
 
+*
+*
+
 The final report shows that 10 tests failed out of a total of 11.
 
 A total of 15 defects/bugs were found, none of which are high priority, and 6 are medium priority.
@@ -167,8 +172,8 @@ A total of 15 defects/bugs were found, none of which are high priority, and 6 ar
 
 The consequences of the testing performed are the following:
 <ul>
-<li>The total number of tests created is: 11, all of which were executed;</li>
+<li>The total number of tests created is: 11*****, all of which were executed;</li>
 <li>The coverage percentage of tests in the scope is: 100%;</li>
 <li>For future projects, an even higher level of human attention is needed, and the speed of work is increased;
-<li>Most of the defects have a high level of severity. All defects affect the interaction that the end user has with the city hall website. Therefore, there is a probability that the end user will lose valuable time sitting on the website.</li>
+<li>Most of the defects have a high level******* of severity. All defects affect the interaction that the end user has with the city hall website. Therefore, there is a probability that the end user will lose valuable time sitting on the website.</li>
 </ul>
