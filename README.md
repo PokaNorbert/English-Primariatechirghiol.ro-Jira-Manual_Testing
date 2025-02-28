@@ -9,9 +9,11 @@ Tools used: Jira and Zephyr Squad.
 <h2>Functional specifications:</h2>
 
 The stories below were created in Jira and describe some functional specifications of the Techirghiol City Hall website, for which the final project is being carried out:
+
 *
 
-Here you can find the version that was created for this project:
+Here you can find the release that was created for this project:
+
 *
 
 <h2>Testing Process</h2>
@@ -20,7 +22,7 @@ The testing process was operated based on the standard testing process, as descr
 
 <h3>1.1 Testing Planning</h3>
 
-The test plan is designed to describe all the details of the testing.
+The Test Plan is designed to describe all the details of the testing.
 
 The plan identifies the elements to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for the testing, the resources and schedule required to complete the testing, and the risks associated with the plan. The test plan that was created for this project can be found here:
 
