@@ -149,7 +149,7 @@ The traceability matrix has been generated, and can be found here:
 
 *
 
-The link between stories, tests and bugs/defects is properly reflected with the Traceability Matrix:
+The link between stories, tests and bugs/defects is properly reflected with the Traceability Matrix: *******************
 <ul>
 <li>The matrix above can show us a number of 14 stories (10 stories are visible in the attached screenshot);</li>
 <li>The high number of defects/bugs displayed is caused by the fact that many defects are associated with several tests, not just one (thus, several links harmful to the user experience on the website were created);</li>
@@ -166,7 +166,7 @@ The test execution diagram was generated, and can be found below:
 
 The final report shows that 10 tests failed out of a total of 11.
 
-A total of 15 defects/bugs were found, none of which are high priority, and 6 are medium priority.
+A total of 15 defects/bugs were found, none of which are high priority, and 6 are medium priority.******
 
 <h1>Testing Consequences</h1>
 
