@@ -101,14 +101,12 @@ The testing process was continuously monitored, from start to finish. The Test s
 
 ![execu list](https://github.com/user-attachments/assets/13888569-de10-4b62-a188-2a983701f974)
 
-
 <h3>1.3 Testing analysis</h3>
 
 The testing process was executed based on the application requirements.
 The following test conditions were built:
 
 ![testcond](https://github.com/user-attachments/assets/5c754c8c-0ecd-400d-ba5f-41b75b670dcc)
-
 
 <h3>1.4 Testing design</h3>
 
