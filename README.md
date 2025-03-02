@@ -145,7 +145,7 @@ Since the exit criteria have been met, the Testing Team suggests this feature to
 
 The traceability matrix has been generated, and can be found here:
 
-*
+![stor-traceabil](https://github.com/user-attachments/assets/e3b2c98f-a40c-4e9f-b3b5-311741ee1194)
 
 The link between stories, tests and bugs/defects is properly reflected with the Traceability Matrix: *******************
 <ul>
