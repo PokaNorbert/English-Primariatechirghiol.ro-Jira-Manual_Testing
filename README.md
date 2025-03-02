@@ -173,5 +173,5 @@ The consequences of the testing performed are the following:
 <li>The total number of tests created is: 11, all of which were executed;</li>
 <li>The coverage percentage of tests in the scope is: 100%;</li>
 <li>For future projects, an even higher level of human attention is needed, and the speed of work is increased;
-<li>Most of the defects have a high level******* of severity. All defects affect the interaction that the end user has with the city hall website. Therefore, there is a probability that the end user will lose valuable time sitting on the website.</li>
+<li>Most of the defects have a medium level of severity. All defects affect the interaction that the end user has with the city hall website. Therefore, there is a probability that the end user will lose valuable time sitting on the website.</li>
 </ul>
