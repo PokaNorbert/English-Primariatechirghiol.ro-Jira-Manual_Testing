@@ -26,7 +26,7 @@ The Test Plan is designed to describe all the details of the testing.
 
 The plan identifies the elements to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for the testing, the resources and schedule required to complete the testing, and the risks associated with the plan. The test plan that was created for this project can be found here:
 
-*--*
+*****
 
 <h4>1.1.1. Assigned people and roles assigned to the project</h4>
 
@@ -99,14 +99,16 @@ The entry criteria defined in the Test Planning phase have been met, and the tes
 <h3>1.2 Monitoring and controlling testing</h3>
 The testing process was continuously monitored, from start to finish. The Test status report was generated to effectively compare the current progress with the expected one. If deviations from the plan took hold of the entire development, then control measures were taken. The same happened if there was a risk of not meeting the objectives on time. The role of this stage is to increase quality and efficiency.
 
-*
+![execu list](https://github.com/user-attachments/assets/13888569-de10-4b62-a188-2a983701f974)
+
 
 <h3>1.3 Testing analysis</h3>
 
 The testing process was executed based on the application requirements.
 The following test conditions were built:
 
-*
+![testcond](https://github.com/user-attachments/assets/5c754c8c-0ecd-400d-ba5f-41b75b670dcc)
+
 
 <h3>1.4 Testing design</h3>
 
