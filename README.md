@@ -10,7 +10,8 @@ Tools used: Jira and Zephyr Squad.
 
 The stories below were created in Jira and describe some functional specifications of the Techirghiol City Hall website, for which the final project is being carried out:
 
-*
+![stor](https://github.com/user-attachments/assets/28a7ac5f-c06f-4e05-b6a0-c1dcb9b9715b)
+
 
 Here you can find the release that was created for this project:
 
