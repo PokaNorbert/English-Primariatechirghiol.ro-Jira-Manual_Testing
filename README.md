@@ -164,7 +164,7 @@ The test execution diagram was generated, and can be found below:
 
 The final report shows that 10 tests failed out of a total of 11.
 
-A total of 15 defects/bugs were found, none of which are high priority, and 6 are medium priority.******
+A total of 15 defects/bugs were found, none of which are high priority, and 6 are medium priority.
 
 <h1>Testing Consequences</h1>
 
