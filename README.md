@@ -12,10 +12,9 @@ The stories below were created in Jira and describe some functional specificatio
 
 ![stor](https://github.com/user-attachments/assets/28a7ac5f-c06f-4e05-b6a0-c1dcb9b9715b)
 
-
 Here you can find the release that was created for this project:
 
-*
+![releas](https://github.com/user-attachments/assets/281e9300-ee8c-4355-acc3-32bc658b6c75)
 
 <h2>Testing Process</h2>
 
