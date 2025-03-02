@@ -14,7 +14,7 @@ The stories below were created in Jira and describe some functional specificatio
 
 Here you can find the release that was created for this project:
 
-![releas](https://github.com/user-attachments/assets/281e9300-ee8c-4355-acc3-32bc658b6c75)
+![relea](https://github.com/user-attachments/assets/d31638d1-6382-4b3f-a15f-3be91e0a0a25)
 
 <h2>Testing Process</h2>
 
