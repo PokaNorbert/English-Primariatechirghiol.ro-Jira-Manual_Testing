@@ -128,17 +128,15 @@ The following elements are required to be prepared before starting the testing e
 
 <h3>1.6. Testing Execution</h3>
 
-The test cases are executed on the created test cycle summary: ”Primariatechirghiol_versiunea_1.0_limba_română”.
-
-*
+The test cases are executed on the created test Cycle summary: ”Primariatechirghiol_versiunea_1.0_limba_română”.
 
 Defects/bugs have been created based on the failed tests. The full bug reports can be found here:
 
-*
+[Bugs](https://github.com/PokaNorbert/Primariatechirghiol.ro-Jira-Manual_Testing/tree/main/Bugs)
 
 The following is a summary of the defects/bugs that were found:
 
-*
+![Medium-bug](https://github.com/user-attachments/assets/d7774193-d72e-4b19-8cfc-05a88d61d5c1)
 
 Full regression testing is required on the affected areas after the bugs are fixed, and then each functionality that previously failed will need to be retested.
 
