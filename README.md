@@ -152,7 +152,7 @@ The link between stories, tests and bugs/defects is properly reflected with the 
 <li>The matrix above can show us a number of 14 stories (10 stories are visible in the attached screenshot);</li>
 <li>The high number of defects/bugs displayed is caused by the fact that many defects are associated with several tests, not just one (thus, several links harmful to the user experience on the website were created);</li>
 <li>The story called ”NPT-167” is linked to 5 test conditions: NPT-157-159-161-163-165;</li>
-<li>Based on the same links: ”Story-Test condition”, ”NPT-45” is also linked to 5 test conditions: NPT-109-111-115-117-119, and ”NPT-43” only by ”NPT-121”;</li>
+<li>Based on the same links: ”Story-Test condition”, ”NPT-130” is also linked to 5 test conditions: NPT-138-139-140-143-144, and ”NPT-127” only by ”NPT-128”;</li>
 <li>There are 11 test conditions in total (most cover more than one story);</li>
 <li>15 bugs/defects were identified (they are distributed across 11 stories).</li>
 </ul>
