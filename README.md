@@ -111,6 +111,7 @@ The following test conditions were built:
 <h3>1.4 Testing design</h3>
 
 The functional test cases were created in Zephyr Squad based on the specification analysis. The test cases can be accessed here:
+
 [TestCases](https://github.com/PokaNorbert/Primariatechirghiol.ro-Jira-Manual_Testing/tree/main/TestCases)
 
 <h3>1.5 Testing Implementation</h3>
