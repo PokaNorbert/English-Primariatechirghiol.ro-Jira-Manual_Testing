@@ -26,7 +26,9 @@ The Test Plan is designed to describe all the details of the testing.
 
 The plan identifies the elements to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for the testing, the resources and schedule required to complete the testing, and the risks associated with the plan. The test plan that was created for this project can be found here:
 
+
 *will be posted*
+
 
 <h4>1.1.1. Assigned people and roles assigned to the project</h4>
 
