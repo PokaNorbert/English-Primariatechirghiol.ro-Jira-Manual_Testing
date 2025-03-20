@@ -150,6 +150,7 @@ The link between stories, tests and bugs/defects is properly reflected with the 
 The test execution diagram was generated, and can be found below:
 
 ![t exec-2](https://github.com/user-attachments/assets/ef06848e-ec0e-444b-b85c-36d12e0281e4)
+
 ![textexecut2-=](https://github.com/user-attachments/assets/646f9fac-46af-4818-8770-41ccd98a0be9)
 
 The final report shows that 10 tests failed out of a total of 11.
