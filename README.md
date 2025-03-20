@@ -4,7 +4,7 @@ The goal of the final project for the “IT Factory Manual Testing Course” is 
 
 Tested parts of **the website:** https://www.primariatechirghiol.ro
 
-**Tools used:** Jira and Zephyr Squad.
+**Tools** used: Jira and Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
