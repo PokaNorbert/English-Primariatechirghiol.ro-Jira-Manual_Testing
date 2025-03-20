@@ -7,7 +7,6 @@ Tested parts of **the website:** https://www.primariatechirghiol.ro
 **Tools** used: Jira and Zephyr Squad.
 
 <h2>Functional specifications:</h2>
-
 The stories below were created in Jira and describe some functional specifications of the Techirghiol City Hall website, for which the final project is being carried out:
 
 ![stor](https://github.com/user-attachments/assets/28a7ac5f-c06f-4e05-b6a0-c1dcb9b9715b)
@@ -21,7 +20,6 @@ Here you can find the release that was created for this project:
 The testing process was operated based on the standard testing process, as described below.
 
 <h3>1.1 Testing Planning</h3>
-
 The Test Plan is designed to describe all the details of the testing.
 
 The plan identifies the elements to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for the testing, the resources and schedule required to complete the testing, and the risks associated with the plan. The test plan that was created for this project can be found here:
@@ -29,7 +27,6 @@ The plan identifies the elements to be tested, the features to be tested, the ty
 [Test plan - Techirghiol City Hall.pdf](https://github.com/PokaNorbert/Primariatechirghiol.ro-Jira-Manual_Testing/blob/main/Test%20plan%20-%20Techirghiol%20City%20Hall.pdf)
 
 <h4>1.1.1. Assigned people and roles assigned to the project</h4>
-
 <ul>
 <li>Csipas Valeriu - Project manager</li>
 <li>Moga Constantin - Product owner</li>
@@ -62,7 +59,6 @@ And the exit criteria for testing are as follows:
 </ul>
 
 <h4>1.1.4 Test Scope</h4>
-
 <h5>Tests in scope:</h5>
 <ul>
 <li>Functional, performance, use case requirements testing;</li>
@@ -78,7 +74,6 @@ And the exit criteria for testing are as follows:
 </ul>
 
 <h4>1.1.5 Detected risks</h4>
-
 <h5>Product risks:</h5>
 The risk associated with the final product is the one immediately mentioned:
 <ul>
@@ -93,7 +88,6 @@ While the risks associated with the project are the following:
 </ul>
 
 <h4>1.1.6 Evaluation of entry criteria</h4>
-
 The entry criteria defined in the Test Planning phase have been met, and the testing process can continue.
 
 <h3>1.2 Monitoring and controlling testing</h3>
@@ -102,20 +96,17 @@ The testing process was continuously monitored, from start to finish. The Test s
 ![execu list](https://github.com/user-attachments/assets/13888569-de10-4b62-a188-2a983701f974)
 
 <h3>1.3 Testing analysis</h3>
-
 The testing process was executed based on the application requirements.
 The following test conditions were built:
 
 ![testcond](https://github.com/user-attachments/assets/5c754c8c-0ecd-400d-ba5f-41b75b670dcc)
 
 <h3>1.4 Testing design</h3>
-
 The functional test cases were created in Zephyr Squad based on the specification analysis. The test cases can be accessed here:
 
 [TestCases](https://github.com/PokaNorbert/Primariatechirghiol.ro-Jira-Manual_Testing/tree/main/TestCases)
 
 <h3>1.5 Testing Implementation</h3>
-
 The following elements are required to be prepared before starting the testing execution phase:
 <ul>
 <li>The test environment is prepared in all respects;</li>
@@ -127,7 +118,6 @@ The following elements are required to be prepared before starting the testing e
 </ul>
 
 <h3>1.6. Testing Execution</h3>
-
 The test cases are executed on the created test Cycle summary: ”Primariatechirghiol_versiunea_1.0_limba_română”.
 
 Defects/bugs have been created based on the failed tests. The full bug reports can be found here:
@@ -167,7 +157,6 @@ The final report shows that 10 tests failed out of a total of 11.
 A total of 15 defects/bugs were found, none of which are high priority, and 6 are medium priority.
 
 <h1>Test Summary</h1>
-
 The consequences of the testing performed are the following:
 <ul>
 <li>The total number of tests created is: 11, all of which were executed;</li>
